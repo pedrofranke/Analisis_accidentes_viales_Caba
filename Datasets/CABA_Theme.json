@@ -1,0 +1,11 @@
+﻿{"name":"Custom",
+    "dataColors":["#FFD500","#29BDEF","#EC607E","#F08372","#3C3C3B","#878787","#FFFFFF","#D64550"],
+    "bad":"#EC607E",
+    "neutral":"#F08372",
+    "good":"#EEEDA6",
+    "minimum":"#29BDEF",
+    "maximum":"#FFD500",
+    "visualStyles":{"*":{"*":{"background":[{"color":{"solid":{"color":"#FFD500"}}}]}},
+    "page":{"*":{"background":[{"color":{"solid":{"color":"#FFFFFF"}},"transparency":100}],
+    "outspace":[{"color":{"solid":{"color":"#FFD500"}}}]}}}
+}
