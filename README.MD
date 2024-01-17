@@ -58,9 +58,7 @@ En función de lo analizado en el punto anterior, se plantearon tres objetivos e
 
     $\text{Tasa de homicidios en siniestros viales} = \frac{\text{Número de homicidios en siniestros viales}}{\text{Población total}}·100,000$
 
-    Como *Población Total* se calculó la población para el año 2021 a partir de los censos poblacionales del año 2010 y 2022.
-
-    En este caso, para el año 2021, la *Tasa de homicidios en siniestros viales* fue de 1.77 lo que significa que, durante los primeros 6 meses del año 2021, hubo aproximadamente 1.77 homicidios en accidentes de tránsito por cada 100,000 habitantes. Ahora, el objetivo planteado es reducir esta tasa para el siguiente semestre de 2021 en un 10%, esto es **1.61**. Cuando se calcula el KPI para este período se obtiene que la *Tasa de homicidios en siniestros viales* fue de **1.36**, lo que significa que para el segundo semestre de 2021 se cumple con el objetivo propuesto.
+    En este caso, para el año 2021, la *Tasa de homicidios en siniestros viales* fue de 1.79 lo que significa que, durante los primeros 6 meses del año 2021, hubo aproximadamente 1.79 homicidios en accidentes de tránsito por cada 100,000 habitantes. Ahora, el objetivo planteado es reducir esta tasa para el siguiente semestre de 2021 en un 10%, esto es **1.61**. Cuando se calcula el KPI para este período se obtiene que la *Tasa de homicidios en siniestros viales* fue de **1.36**, lo que significa que para el segundo semestre de 2021 se cumple con el objetivo propuesto.
 
 * *Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior*
 
